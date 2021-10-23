@@ -1,0 +1,108 @@
+{
+    "id": "BpKhL823zkXpe9U8R0xQ9w",
+    "alias": "obc-kitchen-lexington",
+    "name": "OBC Kitchen",
+    "image_url": "https://s3-media4.fl.yelpcdn.com/bphoto/JXi5a8UeGPrKwbGBA4ZImA/o.jpg",
+    "is_claimed": true,
+    "is_closed": false,
+    "url": "https://www.yelp.com/biz/obc-kitchen-lexington?adjust_creative=isHnLZ2-HnajgMvg5U-9-A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=isHnLZ2-HnajgMvg5U-9-A",
+    "phone": "+18599772600",
+    "display_phone": "(859) 977-2600",
+    "review_count": 430,
+    "categories": [
+        {
+            "alias": "cocktailbars",
+            "title": "Cocktail Bars"
+        },
+        {
+            "alias": "newamerican",
+            "title": "American (New)"
+        },
+        {
+            "alias": "seafood",
+            "title": "Seafood"
+        }
+    ],
+    "rating": 4.5,
+    "location": {
+        "address1": "3373 Tates Creek Rd",
+        "address2": "",
+        "address3": "",
+        "city": "Lexington",
+        "zip_code": "40502",
+        "country": "US",
+        "state": "KY",
+        "display_address": [
+            "3373 Tates Creek Rd",
+            "Lexington, KY 40502"
+        ],
+        "cross_streets": ""
+    },
+    "coordinates": {
+        "latitude": 37.9950994324964,
+        "longitude": -84.4964695004246
+    },
+    "photos": [
+        "https://s3-media4.fl.yelpcdn.com/bphoto/JXi5a8UeGPrKwbGBA4ZImA/o.jpg",
+        "https://s3-media1.fl.yelpcdn.com/bphoto/7f_WdNLCGZmjUQEw6h6xoQ/o.jpg",
+        "https://s3-media2.fl.yelpcdn.com/bphoto/eqMn--a_zt-qU-62tWuYUw/o.jpg"
+    ],
+    "price": "$$",
+    "hours": [
+        {
+            "open": [
+                {
+                    "is_overnight": false,
+                    "start": "1500",
+                    "end": "2200",
+                    "day": 0
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1500",
+                    "end": "2200",
+                    "day": 1
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1500",
+                    "end": "2200",
+                    "day": 2
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1500",
+                    "end": "2200",
+                    "day": 3
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1500",
+                    "end": "2300",
+                    "day": 4
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1000",
+                    "end": "2300",
+                    "day": 5
+                },
+                {
+                    "is_overnight": false,
+                    "start": "1000",
+                    "end": "2100",
+                    "day": 6
+                }
+            ],
+            "hours_type": "REGULAR",
+            "is_open_now": true
+        }
+    ],
+    "transactions": [
+        "delivery"
+    ],
+    "messaging": {
+        "url": "https://www.yelp.com/raq/BpKhL823zkXpe9U8R0xQ9w?adjust_creative=isHnLZ2-HnajgMvg5U-9-A&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_lookup&utm_source=isHnLZ2-HnajgMvg5U-9-A#popup%3Araq",
+        "use_case_text": "Message the Business"
+    }
+}
